@@ -68,7 +68,7 @@ const Home = () => {
           Website: https://zodiachrc.com
         </a>
         <a
-          href="https://linkedin.com/company/zodiac-hr-consultants-india-pvt-ltd"
+          href="https://www.linkedin.com/company/zodiac-hr-consultants-i-pvt-ltd./"
           target="_blank"
           rel="noopener noreferrer"
           className="link"
